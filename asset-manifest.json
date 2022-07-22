@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-useState-hooks/static/css/main.2fdf8506.css",
+    "main.js": "/React-useState-hooks/static/js/main.566dc58a.js",
+    "index.html": "/React-useState-hooks/index.html",
+    "main.2fdf8506.css.map": "/React-useState-hooks/static/css/main.2fdf8506.css.map",
+    "main.566dc58a.js.map": "/React-useState-hooks/static/js/main.566dc58a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fdf8506.css",
+    "static/js/main.566dc58a.js"
+  ]
+}
